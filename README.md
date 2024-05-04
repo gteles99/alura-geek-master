@@ -1,4 +1,4 @@
-# Alura Geek: site de E-Commerce | 3º Challenge Front-end Alura
+# Alura Geek: site de E-Commerce | Challenge Front-end Alura
 
 <div id='top'></div>
 
@@ -201,4 +201,4 @@ The Challenge started at March 14th, 2022.
 
 ---
 
-Developed with 🧡 by [@sucodelarangela 🍊](https://angelacaldas.vercel.app)
+
